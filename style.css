@@ -1,0 +1,40 @@
+body {
+    background-color: lightgray;
+    font-family:"Trebuchet MS", Helvetica, sans-serif;
+    text-align: center;
+}
+
+#title {
+    text-align: center;
+}
+
+#img-div {
+    background-color: white;
+    padding: 20px;
+    width: 90%;
+    margin: 0 auto;
+    text-align: center;
+    border-radius: 15px;
+}
+
+img {
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: auto;
+}
+
+ul {
+    max-width:650px;
+    margin:0 auto;
+    text-align:left;
+}
+
+li{
+    margin: 15px;
+    text-align: left;
+}
+
+#tribute-info {
+    margin-bottom: 50px;
+}
